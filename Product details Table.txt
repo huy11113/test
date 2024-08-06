@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Brand,UnitPrice,InStock,Description,SupplierID,DateAdded
+1,Smartphone,Electronics,ABC Electronics,500,1000,A high-quality smartphone with advanced features.,1,2024-01-01
+2,Laptop,Electronics,ABC Electronics,1000,800,A powerful laptop for work and entertainment.,1,2024-01-02
+3,Tablet,Electronics,ABC Electronics,300,1200,A versatile tablet for everyday use.,1,2024-01-03
+4,Smartwatch,Electronics,ABC Electronics,200,1500,A stylish smartwatch with health tracking features.,1,2024-01-04
+5,Headphones,Electronics,ABC Electronics,100,2000,Comfortable headphones with excellent sound quality.,1,2024-01-05
+6,Bluetooth Speaker,Electronics,ABC Electronics,150,1800,A portable Bluetooth speaker for music lovers.,1,2024-01-06
+7,Television,Electronics,ABC Electronics,800,600,A high-definition television for immersive viewing.,1,2024-01-07
+8,Refrigerator,Appliances,ABC Appliances,1000,500,A spacious refrigerator with advanced cooling technology.,2,2024-01-08
+9,Washing Machine,Appliances,ABC Appliances,600,700,A reliable washing machine for laundry needs.,2,2024-01-09
+10,Dishwasher,Appliances,ABC Appliances,500,800,A convenient dishwasher for easy cleaning.,2,2024-01-10
+11,Vacuum Cleaner,Appliances,ABC Appliances,200,1000,An efficient vacuum cleaner for keeping the house clean.,2,2024-01-11
+12,Microwave Oven,Appliances,ABC Appliances,150,1200,A compact microwave oven for quick cooking.,2,2024-01-12
+13,Toaster,Appliances,ABC Appliances,50,1500,A simple toaster for toasting bread slices.,2,2024-01-13
+14,Coffee Maker,Appliances,ABC Appliances,100,1000,A coffee maker for brewing delicious coffee at home.,2,2024-01-14
+15,Blender,Appliances,ABC Appliances,80,1200,A powerful blender for making smoothies and shakes.,2,2024-01-15
+16,Power Bank,Accessories,ABC Accessories,50,2000,A portable power bank for charging devices on the go.,3,2024-01-16
+17,USB Flash Drive,Accessories,ABC Accessories,20,3000,A compact USB flash drive for storing data.,3,2024-01-17
+18,Wireless Mouse,Accessories,ABC Accessories,30,2500,A wireless mouse for convenient computer usage.,3,2024-01-18
+19,Keyboard,Accessories,ABC Accessories,40,2000,A durable keyboard for comfortable typing.,3,2024-01-19
+20,Laptop Bag,Accessories,ABC Accessories,50,1500,A stylish laptop bag for carrying laptops and accessories.,3,2024-01-20
+21,Desk Lamp,Accessories,ABC Accessories,25,1800,A modern desk lamp for brightening up your workspace.,3,2024-01-21
+22,Desk Organizer,Accessories,ABC Accessories,15,2200,A desk organizer for keeping your stationery tidy.,3,2024-01-22
+23,Mouse Pad,Accessories,ABC Accessories,10,2500,A comfortable mouse pad for smooth mouse movement.,3,2024-01-23
+24,External Hard Drive,Accessories,ABC Accessories,80,1000,An external hard drive for storing large amounts of data.,3,2024-01-24
+25,Bluetooth Earphones,Accessories,ABC Accessories,60,1500,Wireless earphones for listening to music on the go.,3,2024-01-25
+26,Portable Charger,Accessories,ABC Accessories,40,2000,A compact portable charger for charging devices anytime.,3,2024-01-26
+27,Sunglasses,Fashion,ABC Fashion,50,1200,Stylish sunglasses to protect your eyes from the sun.,4,2024-01-27
+28,Handbag,Fashion,ABC Fashion,70,800,A fashionable handbag for carrying essentials.,4,2024-01-28
+29,Wristwatch,Fashion,ABC Fashion,100,1000,A sophisticated wristwatch for keeping track of time.,4,2024-01-29
+30,Scarf,Fashion,ABC Fashion,30,1500,A cozy scarf to keep you warm in cold weather.,4,2024-01-30
+31,Hat,Fashion,ABC Fashion,20,2000,A stylish hat to add flair to your outfit.,4,2024-01-31
+32,Belt,Fashion,ABC Fashion,25,1800,A classic belt to complete your look.,4,2024-02-01
+33,Backpack,Fashion,ABC Fashion,60,1000,A trendy backpack for carrying books and essentials.,4,2024-02-02
+34,Wallet,Fashion,ABC Fashion,40,1200,A sleek wallet to keep your cards and cash organized.,4,2024-02-03
+35,Dress,Fashion,ABC Fashion,80,700,A chic dress for special occasions.,4,2024-02-04
+36,Jeans,Fashion,ABC Fashion,50,900,Comfortable jeans for everyday wear.,4,2024-02-05
+37,T-shirt,Fashion,ABC Fashion,20,1500,A casual t-shirt for a relaxed look.,4,2024-02-06
+38,Blouse,Fashion,ABC Fashion,40,800,A stylish blouse for work or social gatherings.,4,2024-02-07
+39,Skirt,Fashion,ABC Fashion,30,1000,A versatile skirt for mixing and matching outfits.,4,2024-02-08
+40,Sweater,Fashion,ABC Fashion,60,700,A cozy sweater for chilly days.,4,2024-02-09
+41,Jacket,Fashion,ABC Fashion,80,800,A stylish jacket to keep you warm in cool weather.,4,2024-02-10
+42,Coat,Fashion,ABC Fashion,100,600,A classic coat for a sophisticated look.,4,2024-02-11
+43,Boots,Fashion,ABC Fashion,70,900,Stylish boots to complete your outfit.,4,2024-02-12
+44,Sneakers,Fashion,ABC Fashion,60,1200,Comfortable sneakers for everyday wear.,4,2024-02-13
+45,High Heels,Fashion,ABC Fashion,80,700,Elegant high heels for special occasions.,4,2024-02-14
+46,Running Shoes,Fashion,ABC Fashion,70,1000,Performance running shoes for athletes.,4,2024-02-15
+47,Suit,Fashion,ABC Fashion,200,400,A tailored suit for formal events.,4,2024-02-16
+48,Tie,Fashion,ABC Fashion,30,1500,A classic tie to complete your formal look.,4,2024-02-17
+49,Socks,Fashion,ABC Fashion,10,2000,Comfortable socks for everyday wear.,4,2024-02-18
+50,Umbrella,Accessories,ABC Accessories,20,2500,A durable umbrella for protection from rain.,3,2024-02-19
+51,Notebook,Stationery,ABC Stationery,5,3000,A simple notebook for jotting down notes.,5,2024-02-20
+52,Pen,Stationery,ABC Stationery,3,3500,A basic ballpoint pen for writing.,5,2024-02-21
+53,Pencil,Stationery,ABC Stationery,2,4000,A traditional wooden pencil for sketching.,5,2024-02-22
+54,Eraser,Stationery,ABC Stationery,1,4500,A rubber eraser for correcting mistakes.,5,2024-02-23
+55,Ruler,Stationery,ABC Stationery,3,3000,A plastic ruler for measuring.,5,2024-02-24
+56,Highlighter,Stationery,ABC Stationery,2,3500,A fluorescent highlighter for marking important text.,5,2024-02-25
+57,Stapler,Stationery,ABC Stationery,5,2500,A compact stapler for binding documents.,5,2024-02-26
+58,Sticky Notes,Stationery,ABC Stationery,2,4000,Adhesive sticky notes for reminders.,5,2024-02-27
+59,Scissors,Stationery,ABC Stationery,4,2000,A pair of sharp scissors for cutting paper.,5,2024-02-28
+60,Whiteboard,Stationery,ABC Stationery,50,500,A magnetic whiteboard for writing and drawing.,5,2024-02-29
+61,Calculator,Stationery,ABC Stationery,10,1500,A basic calculator for simple arithmetic.,5,2024-03-01
+62,Calendar,Stationery,ABC Stationery,5,2000,A wall calendar for keeping track of dates.,5,2024-03-02
+63,File Folder,Stationery,ABC Stationery,3,2500,A durable file folder for organizing documents.,5,2024-03-03
+64,Paper Clips,Stationery,ABC Stationery,1,3000,Assorted paper clips for holding papers together.,5,2024-03-04
+65,Binder Clips,Stationery,ABC Stationery,2,3500,Small binder clips for securing papers.,5,2024-03-05
+66,Push Pins,Stationery,ABC Stationery,1,4000,Colorful push pins for pinning documents to a board.,5,2024-03-06
+67,Correction Tape,Stationery,ABC Stationery,3,2500,A white correction tape for correcting mistakes.,5,2024-03-07
+68,Markers,Stationery,ABC Stationery,5,2000,A set of colorful markers for highlighting and writing.,5,2024-03-08
+69,Desk Chair,Furniture,ABC Furniture,100,500,A comfortable desk chair for long hours of sitting.,6,2024-03-09
+70,Desk,Furniture,ABC Furniture,150,400,A sturdy desk for working or studying.,6,2024-03-10
+71,Bookshelf,Furniture,ABC Furniture,80,600,A spacious bookshelf for storing books and decorations.,6,2024-03-11
+72,Office Chair,Furniture,ABC Furniture,120,450,A ergonomic office chair for comfortable seating.,6,2024-03-12
+73,Office Desk,Furniture,ABC Furniture,200,350,A modern office desk for productivity.,6,2024-03-13
+74,Coffee Table,Furniture,ABC Furniture,90,700,A stylish coffee table for living room decor.,6,2024-03-14
+75,Sofa,Furniture,ABC Furniture,300,300,A comfortable sofa for lounging and relaxing.,6,2024-03-15
+76,Dining Table,Furniture,ABC Furniture,250,250,A sturdy dining table for family meals.,6,2024-03-16
+77,Dining Chair,Furniture,ABC Furniture,80,550,A set of dining chairs for comfortable seating.,6,2024-03-17
+78,Bed,Furniture,ABC Furniture,400,200,A cozy bed for a good night's sleep.,6,2024-03-18
+79,Nightstand,Furniture,ABC Furniture,50,600,A compact nightstand for bedside storage.,6,2024-03-19
+80,Dresser,Furniture,ABC Furniture,200,350,A spacious dresser for organizing clothes.,6,2024-03-20
+81,Desk Lamp,Furniture,ABC Furniture,30,500,A stylish desk lamp for illuminating your workspace.,6,2024-03-21
+82,Table Lamp,Furniture,ABC Furniture,25,600,A decorative table lamp for ambient lighting.,6,2024-03-22
+83,Floor Lamp,Furniture,ABC Furniture,50,400,A tall floor lamp for brightening up any room.,6,2024-03-23
+84,Wall Clock,Furniture,ABC Furniture,20,700,A classic wall clock for keeping time.,6,2024-03-24
+85,Mirror,Furniture,ABC Furniture,40,450,A sleek mirror for grooming and decor.,6,2024-03-25
+86,Shoe Rack,Furniture,ABC Furniture,30,550,A compact shoe rack for organizing footwear.,6,2024-03-26
+87,Coat Rack,Furniture,ABC Furniture,25,500,A coat rack for hanging coats and hats.,6,2024-03-27
+88,TV Stand,Furniture,ABC Furniture,100,300,A TV stand for holding television and media devices.,6,2024-03-28
+89,Bookcase,Furniture,ABC Furniture,80,350,A tall bookcase for storing books and decor.,6,2024-03-29
+90,Plant Stand,Furniture,ABC Furniture,40,400,A plant stand for displaying indoor plants.,6,2024-03-30
+91,Dining Set,Furniture,ABC Furniture,300,150,A complete dining set with table and chairs.,6,2024-03-31
+92,Console Table,Furniture,ABC Furniture,150,200,A narrow console table for hallway or entryway.,6,2024-04-01
+93,Bathroom Cabinet,Furniture,ABC Furniture,100,250,A bathroom cabinet for storing toiletries.,6,2024-04-02
+94,Shelving Unit,Furniture,ABC Furniture,80,300,A versatile shelving unit for storage and display.,6,2024-04-03
+95,Kitchen Cart,Furniture,ABC Furniture,70,350,A mobile kitchen cart for extra storage and workspace.,6,2024-04-04
+96,Bar Stool,Furniture,ABC Furniture,50,400,A bar stool for seating at kitchen counters or bars.,6,2024-04-05
+97,Outdoor Table,Furniture,ABC Furniture,200,100,A sturdy outdoor table for patio or garden.,6,2024-04-06
+98,Outdoor Chair,Furniture,ABC Furniture,80,200,A comfortable outdoor chair for relaxing outside.,6,2024-04-07
+99,Garden Bench,Furniture,ABC Furniture,150,150,A charming garden bench for outdoor seating.,6,2024-04-08
+100,Outdoor Umbrella,Furniture,ABC Furniture,50,300,A large outdoor umbrella for shade on sunny days.,6,2024-04-09
